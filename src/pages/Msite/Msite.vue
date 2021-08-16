@@ -1,13 +1,11 @@
 <template>
-  <div id="app">
-    App
+  <div>
+    Msite
   </div>
 </template>
 
 <script>
-  export default {
-
-  }
+  export default {}
 </script>
 
 <style lang="stylus" rel="stylesheet/stylus">
